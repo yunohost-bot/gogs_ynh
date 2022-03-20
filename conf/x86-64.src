@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/gogs/gogs/releases/download/v0.12.3/gogs_0.12.3_linux_amd64.zip
-SOURCE_SUM=0eeab278aaf8fc999329e611fe0709e95e08c26d15bdf60d499268f144e40406
+SOURCE_URL=https://github.com/gogs/gogs/releases/download/v0.12.6/gogs_0.12.6_linux_amd64.tar.gz
+SOURCE_SUM=591f16331776d02575a11ff135739e44a46e1811b7a7a5c9871bad7bcc47c664
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
+SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
